@@ -9,7 +9,7 @@ Version:	2.0.1
 Release:	%mkrel 15
 Group:		System/Servers
 License:	Apache License
-URL:		http://www.lexa.ru/programs/mod-geo.html
+URL:		https://www.lexa.ru/programs/mod-geo.html
 Source0: 	ftp://ftp.lexa.ru/pub/apache-rus/contrib/%{mod_name}-%{version}.tar.bz2
 Source1:	%{mod_conf}.bz2
 Source2:	README_en.html.bz2
